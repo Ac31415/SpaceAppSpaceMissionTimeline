@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/space-apps-challenge/static/css/main.7006de0f.css",
+    "main.js": "/space-apps-challenge/static/js/main.ba4be930.js",
+    "static/js/787.0761144c.chunk.js": "/space-apps-challenge/static/js/787.0761144c.chunk.js",
+    "index.html": "/space-apps-challenge/index.html",
+    "main.7006de0f.css.map": "/space-apps-challenge/static/css/main.7006de0f.css.map",
+    "main.ba4be930.js.map": "/space-apps-challenge/static/js/main.ba4be930.js.map",
+    "787.0761144c.chunk.js.map": "/space-apps-challenge/static/js/787.0761144c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7006de0f.css",
+    "static/js/main.ba4be930.js"
+  ]
+}
